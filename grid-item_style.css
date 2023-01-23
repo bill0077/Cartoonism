@@ -1,0 +1,55 @@
+.thumbnail { 
+    display: inline-block;
+    /*max-width: 100%;*/
+    width: 220px;
+
+    transition: all 0.05s linear;
+
+    /*border-bottom: 4px solid lightgray;
+    border-right: 4px solid lightgray;
+    border-top: 2px solid lightgray;
+    border-left: 2px solid lightgray;*/
+
+    /*-ms-interpolation-mode: bicubic;*/
+}
+
+/*.grid-item:hover{
+    width: 400px;
+    z-index: 1;
+}*/
+
+.wrapper_hori {
+    display: flex;
+    align-items: center;
+
+}
+
+.wrapper_info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+
+.star_icon {
+    max-width: 30px;
+    max-height: 30px;
+}
+.person_icon {
+    max-width: 30px;
+    max-height: 30px;
+}
+.cartoon_title {
+    font-size: 30px;
+}
+.cartoon_artist {
+    font-size: 20px;
+}
+.cartoon_view {
+    font-size: 15px;
+}
+.cartoon_recommend {
+    font-size: 15px;
+}
+
+

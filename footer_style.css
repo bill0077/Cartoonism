@@ -1,0 +1,25 @@
+.wrapper_footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.dc-logo {
+    display: inline-block;
+    width: 40px;
+
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.footer-text {
+    font-size: x-large;
+    font-weight: bold;
+}

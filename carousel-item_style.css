@@ -1,0 +1,10 @@
+.hit_thumbnail {
+    /*width: 300px;*/
+    height: 400px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    border-left: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+}
